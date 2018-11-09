@@ -1,0 +1,120 @@
+body {
+    margin: 0 auto;
+    font-family: roboto;
+}
+  
+.no-padding {
+    padding: 0;
+}
+  
+header {
+    height: auto;
+    background-color: #362120;
+    color: #fff;
+    padding: 10px 0;
+}
+  
+#title > h1 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+  
+.subTitle {
+    text-align: center;
+    margin: 5px 0;
+}
+  
+#img-div {
+    background-color: #bca196;
+}
+  
+#image {
+    width: 100%;
+}
+  
+#img-caption {
+    font-size: 14px;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+}
+  
+#tribute-info {
+    background-color: #f2f2f2;
+}
+  
+.sectionTitle {
+    text-align: center;
+    padding: 10px;
+}
+  
+.facts {
+    padding: 0 80px;
+}
+  
+.pugTile {
+    background-color: #fff;
+    box-shadow: 0 0 7px rgba(0,0,0,0.3);
+    height: 480px;
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 30px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+  
+.pugTile_title {
+    text-align: center;
+    background-color: #362120;
+    height: 50px;
+    border-radius: 4px 4px 0 0;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 14px 0;
+}
+  
+.pugTile_img {
+    height: 290px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+.pugTile_img1 {
+    background-image: url("https://cdn.pixabay.com/photo/2015/06/08/15/02/pug-801826__340.jpg");
+}
+  
+.pugTile_img2 {
+    background-image: url("https://cdn.pixabay.com/photo/2017/07/31/11/05/dog-2557266__340.jpg");
+}
+  
+.pugTile_img3 {
+    background-image: url("https://cdn.pixabay.com/photo/2017/07/13/01/56/pugs-2498921__340.jpg");
+}
+  
+.pugTile_img4 {
+    background-image: url("https://cdn.pixabay.com/photo/2016/07/07/15/35/pug-1502562__340.jpg");
+}
+  
+.pugTile_img5 {
+    background-image: url("https://cdn.pixabay.com/photo/2015/03/26/09/43/dog-690176__340.jpg");
+}
+  
+.pugTile_img6 {
+    background-image: url("https://cdn.pixabay.com/photo/2017/09/20/19/10/pug-2769671__340.jpg");
+}
+  
+.pugTile_description {
+    padding: 20px;
+    text-align: center;
+}
+  
+footer {
+    display: block;
+    background-color: #362120;
+    text-align: center;
+    padding: 20px 0;
+    color: #fff;
+}
